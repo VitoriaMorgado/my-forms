@@ -1,6 +1,4 @@
-
-import AuthorizationForm from "../componentes/atividade/AutoriForms";
-
+import MedicForm from "../componentes/atividade/MedicForm";
 
 export default function Home() {
   return (
@@ -26,7 +24,7 @@ export default function Home() {
           Clínica Vida+
         </span>
         <a
-          href="/consulta"
+          href=""
           style={{
             color: "#fff",
             textDecoration: "none",
@@ -80,7 +78,7 @@ export default function Home() {
         >
           Formulário Médico
         </h2>
-        <AuthorizationForm/>
+        <MedicForm />
       </main>
     </div>
   );
