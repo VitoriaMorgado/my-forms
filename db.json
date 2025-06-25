@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "nome": "Nome do jogo",
+      "desenvolvedor": "Estúdio",
+      "genero": "Genero",
+      "preco": "140,00"
+    },
+    {
+      "id": "2",
+      "nome": "Oto",
+      "desenvolvedor": "algum",
+      "genero": "outro",
+      "preco": "14"
+    }
+  ]
+}

@@ -22,6 +22,11 @@ export default function Home() {
       Atividade
     </button>
     </a>
+    <a href="/atividade-api">
+    <button>
+      ATIVIDADE API
+    </button>
+    </a>
     </>
   );
 }
