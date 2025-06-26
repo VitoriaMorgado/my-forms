@@ -2,17 +2,24 @@
   "games": [
     {
       "id": "1",
-      "nome": "Nome do jogo",
-      "desenvolvedor": "Estúdio",
-      "genero": "Genero",
-      "preco": "140,00"
+      "nome": "Cuphead",
+      "desenvolvedor": "Estudio MDHR",
+      "genero": "Crazy Games",
+      "preco": "2,00"
     },
     {
       "id": "2",
-      "nome": "Oto",
-      "desenvolvedor": "algum",
-      "genero": "outro",
-      "preco": "14"
+      "nome": "Barbie",
+      "desenvolvedor": "Mattel",
+      "genero": "Moda",
+      "preco": "2,00"
+    },
+    {
+      "id": "3",
+      "nome": "Call of Duty",
+      "desenvolvedor": "Activision",
+      "genero": "Ação",
+      "preco": "2,00"
     }
   ]
 }
